@@ -1,0 +1,2 @@
+C:\Program Files\nodejs\NodejsApp\ApiLibrary\ApiLibrary\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Program Files\nodejs\NodejsApp\ApiLibrary\ApiLibrary\obj\Debug\ApiLibrary.njsprojResolveAssemblyReference.cache
